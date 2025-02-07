@@ -18,11 +18,6 @@
   - **Kullanıcı Hata Kontrolü**  
     - Boş giriş alanları için `"Numaraları giriniz!"` uyarısı  
 
-  ### 📷 Ekran Görüntüsü
-  | Hesap Makinesi Arayüzü |
-  |------------------------|
-  | ![Hesap Makinesi](https://via.placeholder.com/300x600) |
-
   ### 🛠 Kullanılan Teknolojiler
   - **Kotlin**
   - **Android Studio**
