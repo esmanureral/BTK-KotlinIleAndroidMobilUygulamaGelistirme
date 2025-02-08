@@ -13,6 +13,7 @@
         android:layout_width="351dp"
         android:layout_height="165dp"
         android:layout_marginTop="50dp"
+        android:onClick="gorselSec"
         android:src="@android:drawable/ic_menu_gallery"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -63,6 +64,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="20dp"
 
+            android:onClick="kaydet"
             android:text="Kaydet" />
 
         <Button
@@ -71,6 +73,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="20dp"
 
+            android:onClick="sil"
             android:text="Sil" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
