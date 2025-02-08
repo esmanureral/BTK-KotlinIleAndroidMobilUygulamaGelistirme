@@ -93,3 +93,11 @@ Bu uygulama iki fragmandan oluşmaktadır:
 
       </details>
 
+## 5-YEMEKTARİF KLASÖRÜNDE NELER VAR?
+<details>
+  <summary>📌yemekTarif Uygulamasının Detayları İçin Tıklayınız.
+    
+  </summary>
+  
+
+    
