@@ -96,8 +96,41 @@ Bu uygulama iki fragmandan oluşmaktadır:
 ## 5-YEMEKTARİF KLASÖRÜNDE NELER VAR?
 <details>
   <summary>📌yemekTarif Uygulamasının Detayları İçin Tıklayınız.
-    
+
   </summary>
+
+  # 🍽️ Yemek Tarifi Uygulaması
+
+Bu proje, Kotlin ve Room Database kullanarak yemek tariflerini kaydetme, listeleme işlemlerini içeren bir Android uygulamasıdır.
+
+## 📌 Özellikler
+- ✅ Yemek tariflerini ekleyip kaydedebilirsiniz.
+- ✅ Room Database ile verileri kalıcı olarak saklar.
+- ✅ RecyclerView ile tarifleri listeleme.
+- ✅ Navigation Component ile sayfalar arası geçiş.
+- ✅ Kamera veya galeri ile resim ekleme.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler ve Araçlar
+- **Kotlin** 🟡
+- **Room Database** 🗄️
+- **MVVM Mimarisi** 🏗️
+- **RecyclerView** 📜
+- **Navigation Component** 🧭
+- **ViewBinding** 🔗
+- **Glide** 📷
+
+---
+
+## 📸 Ekran Görüntüleri
+
+
+
+  </details>
+
   
+
+
 
     
