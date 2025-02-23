@@ -123,7 +123,6 @@ Bu proje, Kotlin ve Room Database kullanarak yemek tariflerini kaydetme, listele
 
 ---
 
-## 📸 Ekran Görüntüleri
 
 
 
